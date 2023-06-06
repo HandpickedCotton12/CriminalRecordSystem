@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMS", "CRMS\CRMS.csproj", "{82DEBBB4-5237-480D-A4AF-022DA74D1A74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82DEBBB4-5237-480D-A4AF-022DA74D1A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DEBBB4-5237-480D-A4AF-022DA74D1A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DEBBB4-5237-480D-A4AF-022DA74D1A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DEBBB4-5237-480D-A4AF-022DA74D1A74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75CC37F7-D38E-412B-9056-E8A0437BA7A9}
+	EndGlobalSection
+EndGlobal
